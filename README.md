@@ -24,6 +24,9 @@
 ## Requirements
 * [FRS Core](https://github.com/IL0co/FRS-Core)
 
+## Filter key</font>
+* <font color='#FFA500'>**Prime**</font>
+
 ## Installation Instructions
 1. Drop all files on to the server folder
 2. Configure cfg files
